@@ -3,7 +3,7 @@
 <title>
 fattum
 </title>
-<p>this is para</p>
+<p>this is paragraph</p>
 <head>
 </html>
 
