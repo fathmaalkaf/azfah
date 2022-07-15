@@ -3,7 +3,10 @@
 <title>
 fattum
 </title>
-<p>this is paragraph</p>
+<p  background: #dee6ec;
+  text-align: center;
+  font-size: 39px;
+}>this is paragraph</p>
 <head>
 </html>
 
