@@ -25,24 +25,24 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="LAPTOP1.jpg" alt="Chania" width="1000" height="500">
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ftelanganatoday.com%2Fwp-content%2Fuploads%2F2021%2F12%2Fcalligraphy.jpg&imgrefurl=https%3A%2F%2Ftelanganatoday.com%2Fgirls-take-keen-interest-in-calligraphy&tbnid=xHEHzSo8lgt-iM&vet=12ahUKEwiXy8TC0fr4AhVihNgFHSAjC7oQMygeegUIARCgAg..i&docid=hVLuq12yqGefLM&w=1200&h=650&q=calligraphy&client=firefox-b-d&ved=2ahUKEwiXy8TC0fr4AhVihNgFHSAjC7oQMygeegUIARCgAg" alt="MODERN CALLIGRAPHY" width="1000" height="500">
         <div class="carousel-caption">
           <h3>Chania</h3>
-          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+          <p>I love calligraphy.</p>
         </div>
       </div>
       <div class="item">
-        <img src="img_chania2.jpg" alt="Chania" width="460" height="345">
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.lettering-daily.com%2Fwp-content%2Fuploads%2F2018%2F11%2FImproved-brush-pen-image-1-of-2-720x540.jpg&imgrefurl=https%3A%2F%2Fwww.lettering-daily.com%2Ffaux-calligraphy%2F&tbnid=YtQ1mHkkfvtRkM&vet=12ahUKEwiXy8TC0fr4AhVihNgFHSAjC7oQMygBegUIARDdAQ..i&docid=n8Pr-FF3k0C3DM&w=720&h=540&q=calligraphy&client=firefox-b-d&ved=2ahUKEwiXy8TC0fr4AhVihNgFHSAjC7oQMygBegUIARDdAQ" alt="Chania" width="460" height="345">
         <div class="carousel-caption">
-          <h3>Chania</h3>
-          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+          <h3>calligraphy</h3>
+          <p>i love itttttttttttt.</p>
         </div>
       </div>
       <div class="item">
-        <img src="img_flower.jpg" alt="Flower" width="460" height="345">
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flettering-daily.b-cdn.net%2Fwp-content%2Fuploads%2F2020%2F10%2Fnever-give-up-2-of-2-819x1024.jpg&imgrefurl=https%3A%2F%2Fwww.lettering-daily.com%2Fmodern-calligraphy%2F&tbnid=uWp7alhadiztdM&vet=12ahUKEwiXy8TC0fr4AhVihNgFHSAjC7oQMygiegUIARCpAg..i&docid=ZoU-QTYnkzn82M&w=819&h=1024&q=calligraphy&client=firefox-b-d&ved=2ahUKEwiXy8TC0fr4AhVihNgFHSAjC7oQMygiegUIARCpAg" alt="Flower" width="460" height="345">
         <div class="carousel-caption">
           <h3>Flowers</h3>
-          <p>Beautiful flowers in Kolymbari, Crete.</p>
+          <p>Beautiful flowers </p>
         </div>
       </div>
       <div class="item">
