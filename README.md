@@ -2,7 +2,10 @@
 <HEAD>
 
 <style>
-    img {width: 80%;height: 80%}
+   p {font-size: 50px; 
+ text-align: center;
+ background: orange;
+   }
 #name, #age, #gender, #email, #phone, #desc {
   background-color: lightblue;
   color: black;
@@ -32,7 +35,7 @@ button {
 <title>
 fattum
 </title>
-<p style="background-color:Tomato;">Welcome this is Azfah</p>
+<p style="background-color: orange;">Welcome this is Azfah</p>
 <div class="w3-container" id="contact">
     <h2>Contact</h2>
     <h1>Nai samajh ara form name kya likhna ki khair registration form boltio abke liye .</h1>
