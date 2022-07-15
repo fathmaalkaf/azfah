@@ -1,5 +1,19 @@
-<HTML>
+HTML>
 <HEAD>
+<style>
+#name, #age, #gender, #email, #phone, #desc {
+  background-color: lightblue;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  border-radius: 18px;
+} 
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;}
+</style>
 <title>
 fattum
 </title>
@@ -23,3 +37,4 @@ fattum
 
 <head>
 </html>
+
