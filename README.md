@@ -14,7 +14,6 @@
   border-radius: 18px;
     width: 100%;
     margin: 21px 0px;
-}
 }  
 form {
     display: flex;
@@ -54,6 +53,6 @@ fattum
   </div>
   <link rel="stylesheet" href="form.html">
 
-<HEAD>
+
 </HTML>
 
