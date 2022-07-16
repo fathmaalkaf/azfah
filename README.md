@@ -14,6 +14,7 @@
   border-radius: 18px;
     width: 100%;
     margin: 21px 0px;
+}
 }  
 form {
     display: flex;
@@ -51,8 +52,8 @@ fattum
             <button type="button" onclick="alert('Thank you!')">Submit!</button>
         </form>
   </div>
-  <link rel="stylesheet" href="form.html">
+  <a href="form.html">Menu 1</a>
 
-
+<HEAD>
 </HTML>
 
